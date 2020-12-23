@@ -1,0 +1,11 @@
+{
+  "name": "react-native-nextjs-monorepo",
+  "description": "React Native + React Native Web + NextJS",
+  "repository": "git@github.com:bhaskarmurthy/react-native-nextjs-monorepo.git",
+  "author": "Bhaskar Murthy <bhaskar@murthy.ca>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
