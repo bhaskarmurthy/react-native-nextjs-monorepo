@@ -1,0 +1,23 @@
+{
+  "name": "hello-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "10.0.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native-web": "^0.14.10"
+  },
+  "devDependencies": {
+    "babel-plugin-react-native-web": "^0.14.10",
+    "next-transpile-modules": "^6.0.0"
+  },
+  "peerDependencies": {
+    "react-native": "*"
+  }
+}
